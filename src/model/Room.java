@@ -124,7 +124,7 @@ public abstract class Room<E extends Booking>{
     }
 
     /**
-     * if the booking exists, delete it
+     * deletes a booking if it exists
      * @param booking
      * @return
      */
